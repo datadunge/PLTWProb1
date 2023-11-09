@@ -1,0 +1,10 @@
+ Provide player actions that update the score and manipulate a player using user input. 
+  Provide a player with a list of valid commands. 
+  Provide a player with general gameplay functions. 
+  Add player actions that enhances the gameplay. 
+  Include comments.  Show console output. 
+  Make calls to static and non-static methods. 
+  Make calls to methods that return values. 
+  Use the .equals String method. 
+  Use if/else/else if clauses.  Use a compound Boolean expression. 
+  Use the increment operator. 
